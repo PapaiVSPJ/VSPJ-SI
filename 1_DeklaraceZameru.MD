@@ -1,4 +1,5 @@
-SI_1. Úkol – Deklarace záměru (3 body)
+# SI_1. Úkol – Deklarace záměru (3 body)
+
 Deklarace záměru projektu – Informační systém cestovní kanceláře
 1.	Cíl a vize projektu
 Cílem projektu je vytvořit webovou aplikaci pro správu autobusových zájezdů pořádaných cestovní kanceláří. Systém sjednotí evidenci zájezdů, přihlášky účastníků, platby a komunikaci s klienty, aby se snížila chybovost a administrativní zátěž.
