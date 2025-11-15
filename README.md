@@ -1,13 +1,13 @@
-#VSPJ - Softwarové Inženýrství
+# VSPJ - Softwarové Inženýrství
 Repozitář pro předmět Softwarové inženýrství na VŠPJ
 
-##Projekt
-Téma cestovní kančelář
+## Projekt
+Téma cestovní kancelář
 
-##Popis
+## Popis
 *doplnit*
 
-##Autoři
+## Autoři
 * Antonín Čala
 * Filip Papai
 * Marek Maňek
