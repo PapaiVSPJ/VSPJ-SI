@@ -1,0 +1,1 @@
+Zde budou diagramy

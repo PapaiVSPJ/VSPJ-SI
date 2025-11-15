@@ -7,6 +7,10 @@ Téma cestovní kancelář
 ## Popis
 *doplnit*
 
+## Nástroje
+* diagramy: https://app.diagrams.net
+* verzování: https://desktop.github.com/download
+
 ## Autoři
 * Antonín Čala
 * Filip Papai
