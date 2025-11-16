@@ -1,3 +1,12 @@
+Deklarace záměru projektu – Informační systém cestovní kanceláře
+Cestovní kancelář pořádá autobusové zájezdy, které jsou dnes spravovány pomocí tabulek v Excelu. Tento způsob je neefektivní, chybový a komplikuje správu přihlášek, plateb i komunikaci s účastníky. Cílem projektu je vytvořit jednoduchý webový informační systém, který umožní evidenci zájezdů, přihlašování účastníků, kontrolu plateb a informování klientů. Systém má řešit zejména události přihlášení na zájezd, zaplacení do termínu T_pay, odhlášení a případné zrušení zájezdu ze strany CK. Systém využívají tři role: účastník (registrace a přihlášení), pracovník CK (správa zájezdů a přihlášek) a administrátor (dohled nad systémem).
+
+
+
+
+níže je stará verze, kterou zde uchováme pro případ potřeby
+nová je dle sobotní přednášky stručnější
+
 # SI_1. Úkol – Deklarace záměru (3 body)
 
 Deklarace záměru projektu – Informační systém cestovní kanceláře
