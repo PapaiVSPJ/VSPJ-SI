@@ -1,1 +1,44 @@
+Vize projektu – Informační systém cestovní kanceláře
+1. Účel dokumentu
+Tento dokument popisuje vizi projektu informačního systému cestovní kanceláře (IS CK).
+Stanovuje hlavní cíle, očekávané funkce systému, přínosy pro organizaci a vymezuje rámcový rozsah projektu.
+2. Kontext a příležitost
+Menší cestovní kanceláře často evidují přihlášky a platby pomocí tabulek v Excelu. Tento postup je náchylný na chyby, neumožňuje sdílení aktuálních dat a komplikuje komunikaci s klienty.
+Projekt představuje příležitost sjednotit procesy CK do jednoho systému, snížit administrativu a poskytnout účastníkům přehledné a moderní webové rozhraní.
+Pokud by systém nevznikl, hlavním dopadem by byla nadále rostoucí chybovost, časová náročnost a neefektivita práce.
+3. Navrhované řešení
+Navrhovaným řešením je webová aplikace umožňující správu autobusových zájezdů, přihlášek a plateb. Systém bude poskytovat:
+3.1 Hlavní funkční oblast
+•	centralizovanou evidenci zájezdů, kapacit a termínů
+•	registraci a přihlášení účastníků
+•	rezervaci místa na zájezdu
+•	evidenci plateb a kontrolu splatnosti
+•	notifikace při změnách, potvrzeních a zrušeních
+•	správu zájezdů pracovníkem CK
+3.2 Nefunkční požadavky – hlavní priority
+•	jednoduché a přehledné webové rozhraní
+•	dostupnost z běžných prohlížečů
+•	bezpečné uložení dat
+•	nízká režijní náročnost pro CK
+4. Cíloví uživatelé
+•	Účastník – registrace, přihlášení, platby, notifikace
+•	Pracovník CK – tvorba a správa zájezdů, kontrola plateb, komunikace s klienty
+•	Administrátor – správa uživatelských účtů, kontrola systému
+5. Přínosy projektu
+•	snížení administrativní zátěže
+•	eliminace chyb vyplývajících z ruční evidence
+•	rychlejší zpracování přihlášek
+•	možnost řízení kapacit v reálném čase
+•	profesionálnější komunikace s klienty
+6. Rizika a omezení
+•	riziko nedostatečné kvality dat při přechodu z Excelu
+•	riziko časového skluzu při vývoji
+•	technické omezení na straně CK (nízké IT znalosti, malý tým)
+7. Požadavky mimo rozsah (to, co systém NEŘEŠÍ)
+Systém neřeší:
+•	účetnictví, daňové doklady
+•	evidenci smluv s dopravci
+•	správu ubytování
+•	marketing a externí propagaci
+
 
